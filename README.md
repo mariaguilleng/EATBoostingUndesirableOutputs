@@ -1,4 +1,4 @@
-# Enhanced Efficiency Assessment in Manufacturing: Leveraging Machine Learning for Improved Performance Analysis
+# EATBoosting with Undesirable Ouputs
 
 This repository accompanies the paper "*Enhanced Efficiency Assessment in Manufacturing: Leveraging Machine Learning for Improved Performance Analysis*" by M.D. Guillen, V. Charles, and J. Aparicio.
 
